@@ -1,9 +1,9 @@
 from math import *
 from random import *
-
+print("вариант 27")
 r = float(input('R='))
 flag = False
-print("    X         Y Res")
+print("    X       Y   Res")
 print("-------------------")
 for n in range(10):
     x = uniform(-1, 4)

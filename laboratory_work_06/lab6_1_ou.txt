@@ -1,0 +1,5 @@
+вариант 27
+z1 = a^sqrt(log_a(b)) - b^sqrt(log_b(a)) + tg(ab + 3pi/2)
+z2 = tg(ab + 3pi/2)
+z1 = -3.326323
+z2 = -3.326323

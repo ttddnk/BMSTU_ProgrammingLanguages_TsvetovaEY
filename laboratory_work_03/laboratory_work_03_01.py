@@ -1,5 +1,5 @@
 from math import *
-
+print("вариант 27")
 xb = float(input('Введите Xbeg='))
 xe = float(input('Введите Xend='))
 dx = float(input('Введите Dx='))

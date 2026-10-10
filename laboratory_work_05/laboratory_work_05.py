@@ -1,5 +1,5 @@
 from random import randint
-
+print("вариант 27")
 def create_m(rows, cols):
     numbers = list(range(1, 53))
     for i in range(len(numbers) - 1, 0, -1):

@@ -1,5 +1,5 @@
 from math import sin, pi
-
+print("вариант 27")
 x = float(input("введите значение х = "))
 
 if x <= -2.5:

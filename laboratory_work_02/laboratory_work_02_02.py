@@ -1,4 +1,5 @@
 flag = False
+print("вариант 27")
 print('Введите координаты X и Y для точки и R для радиуса:')
 x = float(input('X='))
 y = float(input('Y='))
